@@ -11,3 +11,6 @@ git commit -m "comentarios"
 
 # 3 guardar los cambios
 git push
+
+# 4 Crear nueva rama
+git push --set-upstream origin creacion_rama
